@@ -7,3 +7,6 @@ CELO Mexico Token Address:
 Scan: 
 
 https://alfajores.celoscan.io/address/0xb80ca7962f1c28792a242200085fab43af53ce40
+
+Contributor:
+https://github.com/robinhodl69 and https://github.com/gerryalvrz
